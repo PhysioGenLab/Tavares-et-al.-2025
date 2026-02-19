@@ -1,0 +1,1 @@
+TELOMERE	NA	NA	472174	/home/telomere_qc/telomere_Ncol.qc
