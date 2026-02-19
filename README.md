@@ -1,2 +1,2 @@
-# Tavares-et-al-2025
-This is a repository with all scripts of analyses describes in Tavares et al. 2025 manuscript exploring the relationship between ADHD and telomere length through genomic mechanisms
+# ConjFDR
+Conjunctional false discovery rate was applied to further identify genetic variants jointly associated with ADHD (Demontis et al. 2023) and TL (Codd et al. 2021).
