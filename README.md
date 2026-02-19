@@ -1,2 +1,2 @@
-# Tavares-et-al-2025
-This is a repository with all scripts of analyses describes in Tavares et al. 2025 manuscript exploring the relationship between ADHD and telomere length through genomic mechanisms
+# LDSC
+In this study, the Linkage-Disequilibrium SCore Regression (LDSC) CLI tool was used to conduct bivariate Global genetic correlations between ADHD Demontis et al. 2023 and TL Codd et al. 2021
